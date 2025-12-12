@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SnapExpense",
+  "description": "A mobile-first expense logging application allowing users to capture receipt photos, extract data via AI, and track claimable totals.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
